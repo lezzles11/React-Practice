@@ -23,6 +23,12 @@ class Blog extends Component {
       errors: [],
     };
   }
+  validateUsernameOnBlur(event) {
+    console.log(
+      "I should validate whatever is in ",
+      event.target.value
+    );
+  }
   displayForm() {
     return (
       <form
@@ -35,6 +41,7 @@ class Blog extends Component {
           type="text"
           id="username"
           class="form-control"
+          onBlur={this.validateUsernameOnBlur}
         ></input>
         <label for="password">Password</label>
         <input
@@ -58,6 +65,10 @@ class Blog extends Component {
         ></input>
       </form>
     );
+  }
+  submitForm(event) {
+    console.log("Submitting the form now ");
+    console.log(event);
   }
   render() {
     return (
