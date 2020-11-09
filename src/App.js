@@ -1,7 +1,7 @@
-import logo from "./logo.svg";
-import "./App.css";
 import Button from "./components/Button";
 import "./styles/style.css";
+import Counter from "./exercises/0_Counter";
+import Blog from "./exercises/1_Events";
 
 function Link({ text }) {
   return <li className="list-group-item">{text}</li>;
@@ -79,8 +79,10 @@ function AddAndRender() {
 function App() {
   return (
     <div className="container">
+      <Counter />
       <AddAndRender />
       <Layout />
+      <Blog />
     </div>
   );
 }
