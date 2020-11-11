@@ -1,8 +1,6 @@
 import Button from "./components/Button";
 import "./styles/style.css";
-import Counter from "./exercises/0_Counter";
-import Blog from "./exercises/1_Events";
-
+import ReactDocumentationIndex from "./exercises/documentation/0_ReactDocumentationIndex";
 function Link({ text }) {
   return <li className="list-group-item">{text}</li>;
 }
@@ -79,10 +77,7 @@ function AddAndRender() {
 function App() {
   return (
     <div className="container">
-      <Counter />
-      <AddAndRender />
-      <Layout />
-      <Blog />
+      <ReactDocumentationIndex />
     </div>
   );
 }

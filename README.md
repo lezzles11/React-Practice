@@ -20,27 +20,27 @@ npm start
 
 ### Daily Stand Up :hourglass:
 
-Finish "The React Workshop" 
+Finish "The React Workshop"
 
-| Date   | What did you do yesterday? |   Planning to do today   |         Obstacles         |
-| ------ | :------------------------: | :----------------------: | :-----------------------: |
-| Nov 9  |                            | Finished chapter 1 and 2 | Talking to people at work |
-| Nov 10 |                            |                          |                           |
-| Nov 11 |                            |                          |                           |
-| Nov 12 |                            |                          |                           |
-| Nov 13 |                            |                          |                           |
-| Nov 14 |                            |                          |                           |
-| Nov 15 |                            |                          |                           |
-| Nov 16 |                            |                          |                           |
-| Nov 17 |                            |                          |                           |
-| Nov 18 |                            |                          |                           |
-| Nov 19 |                            |                          |                           |
-| Nov 20 |                            |                          |                           |
-| Nov 21 |                            |                          |                           |
-| Nov 22 |                            |                          |                           |
-| Nov 23 |                            |                          |                           |
+| Date   | What did you do yesterday? |    Planning to do today    |         Obstacles         |
+| ------ | :------------------------: | :------------------------: | :-----------------------: |
+| Nov 9  |                            |  Finished chapter 1 and 2  | Talking to people at work |
+| Nov 10 |                            |                            |                           |
+| Nov 11 |     Day off yesterday      | Finish react documentation |                           |
+| Nov 12 |                            |                            |                           |
+| Nov 13 |                            |                            |                           |
+| Nov 14 |                            |                            |                           |
+| Nov 15 |                            |                            |                           |
+| Nov 16 |                            |                            |                           |
+| Nov 17 |                            |                            |                           |
+| Nov 18 |                            |                            |                           |
+| Nov 19 |                            |                            |                           |
+| Nov 20 |                            |                            |                           |
+| Nov 21 |                            |                            |                           |
+| Nov 22 |                            |                            |                           |
+| Nov 23 |                            |                            |                           |
 
-## Issues and Resolutions :flashlight:
+## Common Issues and Resolutions :flashlight:
 
 **ERROR**: :gear:
 **RESOLUTION**: :key:

@@ -35,7 +35,7 @@ class Counter extends Component {
     return (
       <div>
         <h4>{this.title}</h4>
-        <p>{this.renderClickCount()}</p>
+        {this.renderClickCount()}
         <InventoryItem name="Strawberries" price="10" />
         <InventoryItem name="Grapes" price="15" />
       </div>
