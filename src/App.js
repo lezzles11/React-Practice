@@ -2,6 +2,7 @@ import "./styles/style.css";
 import ReactDocumentationIndex from "./exercises/documentation/0_ReactDocumentationIndex";
 import WeeklyAssignmentOne from "./exercises/work/01_WeeklyAssignmentOne";
 import Questioner from "./exercises/work/02_Questioner";
+import Leaderboard from "./exercises/work/03_Leaderboard";
 function AddAndRender() {
   return (
     <div>
@@ -19,6 +20,7 @@ function App() {
       <ReactDocumentationIndex />
       <WeeklyAssignmentOne />
       <Questioner />
+      <Leaderboard />
     </div>
   );
 }
