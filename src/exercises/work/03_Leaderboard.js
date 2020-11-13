@@ -24,6 +24,7 @@ class Counter extends React.Component {
     );
   }
 }
+
 function compareValues(key, order = "asc") {
   return function innerSort(a, b) {
     if (!a.hasOwnProperty(key) || !b.hasOwnProperty(key)) {

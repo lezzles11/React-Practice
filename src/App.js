@@ -17,10 +17,10 @@ function AddAndRender() {
 function App() {
   return (
     <div className="container">
-      <ReactDocumentationIndex />
+      {/* <ReactDocumentationIndex /> */}
       <WeeklyAssignmentOne />
-      <Questioner />
-      <Leaderboard />
+      {/* <Questioner />
+      <Leaderboard /> */}
     </div>
   );
 }
