@@ -18,27 +18,36 @@ npm start
 
 1. Users will be able to look through the various examples and understand how to utilize react.
 
-### Daily Stand Up :hourglass:
+### The Coolest Functionalities! :hourglass:
 
-Finish "The React Workshop"
+Finish "React Pro"
 
-| Date   | What did you do yesterday? |    Planning to do today    |         Obstacles         |
-| ------ | :------------------------: | :------------------------: | :-----------------------: |
-| Nov 9  |                            |  Finished chapter 1 and 2  | Talking to people at work |
-| Nov 10 |                            |                            |                           |
-| Nov 11 |     Day off yesterday      | Finish react documentation |                           |
-| Nov 12 |                            |                            |                           |
-| Nov 13 |                            |                            |                           |
-| Nov 14 |                            |                            |                           |
-| Nov 15 |                            |                            |                           |
-| Nov 16 |                            |                            |                           |
-| Nov 17 |                            |                            |                           |
-| Nov 18 |                            |                            |                           |
-| Nov 19 |                            |                            |                           |
-| Nov 20 |                            |                            |                           |
-| Nov 21 |                            |                            |                           |
-| Nov 22 |                            |                            |                           |
-| Nov 23 |                            |                            |                           |
+| Component                   |          Location          |                 Functionalities                 | Notes |
+| --------------------------- | :------------------------: | :---------------------------------------------: | :---: |
+| React To Do List            |          ToDoList          |          Has all basic functionalities          |       |
+| ManipulateClassNameByState  | ManipulateClassNameByState | Awesome that you can manipulate class by state! |       |
+|                             |                            |                                                 |       |
+|                             |                            |                                                 |       |
+| Forms                       |                            |                                                 |       |
+| Render Form                 |                            |                                                 |       |
+| Simple Toggle               |                            |           Finish react documentation            |       |
+| Array of Objects: Rendering |                            |                                                 |       |
+| Array of Objects: Adding    |                            |                                                 |       |
+| Array of Objects: Editing   |                            |                                                 |       |
+| Array of Objects: Deleting  |                            |                                                 |       |
+| Array of Objects: Filtering |                            |                                                 |       |
+| Array of Objects:           |                            |                                                 |       |
+| Array of Objects:           |                            |                                                 |       |
+| Array of Objects:           |                            |                                                 |       |
+| Array of Objects:           |                            |                                                 |       |
+| Quiz App                    |         reactquiz          |                                                 |       |
+| Hooks: Adding to an array   |                            |                                                 |       |
+| Basic Router                |                            |                                                 |       |
+|                             |                            |                                                 |       |
+|                             |                            |                                                 |       |
+|                             |                            |                                                 |       |
+|                             |                            |                                                 |       |
+|                             |                            |                                                 |       |
 
 ## Common Issues and Resolutions :flashlight:
 
