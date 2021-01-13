@@ -12,7 +12,7 @@ function AddAndRender() {
       The purpose of this component is to add to a form, and
       then render this out on a list
       <input type="text" />
-      <button type="submit">Add</button>
+      <button type="submit">sAsdd</button>
     </div>
   );
 }
